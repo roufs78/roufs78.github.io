@@ -1,1 +1,8 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.netlify.jambulanangneptu.twa",
+    "sha256_cert_fingerprints": ["40:A7:27:CA:69:AE:03:FB:41:52:DD:90:F8:CB:0B:D8:B4:2B:AD:39:E1:89:8F:9F:44:12:40:6E:AD:2F:F0:9C"]
+  }
+}]
