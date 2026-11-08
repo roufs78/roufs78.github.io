@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "app.netlify.jambulanangneptu.twa",
-    "sha256_cert_fingerprints": ["40:A7:27:CA:69:AE:03:FB:41:52:DD:90:F8:CB:0B:D8:B4:2B:AD:39:E1:89:8F:9F:44:12:40:6E:AD:2F:F0:9C"]
+    "package_name": "io.github.roufs78.neptu",
+    "sha256_cert_fingerprints": ["30:E3:5D:A5:49:7F:B7:A6:95:CC:A9:2A:B3:F2:32:06:AA:34:1F:08:9F:B9:09:26:1B:2A:29:21:31:38:37:94"]
   }
 }]
